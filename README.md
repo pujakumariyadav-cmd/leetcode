@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
