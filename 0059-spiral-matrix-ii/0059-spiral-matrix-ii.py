@@ -1,5 +1,3 @@
-from typing import List
-
 class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
         matrix = [[0] * n for _ in range(n)]
@@ -33,3 +31,4 @@ class Solution:
                 left += 1
         
         return matrix
+        
