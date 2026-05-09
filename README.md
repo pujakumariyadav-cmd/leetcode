@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0059-spiral-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0912-sort-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -52,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
