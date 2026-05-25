@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0595-big-countries) |
 | [0627-swap-sex-of-employees](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/pujakumariyadav-cmd/bcrecleetcode/tree/master/1683-invalid-tweets) |
